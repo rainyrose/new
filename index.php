@@ -9,6 +9,9 @@ if(defined('G5_THEME_PATH')) {
     return;
 }
 
+echo "index 변경사항";
+
+
 if (G5_IS_MOBILE) {
     include_once(G5_MOBILE_PATH.'/index.php');
     return;
