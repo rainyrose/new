@@ -21,6 +21,8 @@ if (G5_IS_MOBILE) {
     return;
 }
 
+echo "또변경함";
+
 include_once(G5_PATH.'/head.php');
 ?>
 
