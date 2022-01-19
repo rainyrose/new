@@ -16,6 +16,8 @@ echo "index 변경사항2";
 echo "index 변경사항23333 아하하하하하하하";
 
 echo "그럼 이렇게하자"
+	
+	echo "이전걸로 고치기는 힘들다"
 
 
 if (G5_IS_MOBILE) {
