@@ -10,6 +10,8 @@ if(defined('G5_THEME_PATH')) {
 }
 
 echo "index 변경사항";
+echo "index 변경사항2";
+
 
 
 if (G5_IS_MOBILE) {
